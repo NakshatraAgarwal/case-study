@@ -1,0 +1,27 @@
+#heading{
+
+background:grey;
+color:black;
+font-weight:bold;
+text-align: center;
+font-size: 25px;
+}
+
+#img{
+
+height:200px;
+}
+body{
+    background-color:palevioletred;
+}
+#result{
+
+background-color:grey;
+border-radius: 20px;
+text-align: center;
+font-size: 30px;
+
+}
+h5{
+    font-size:50px;
+}
